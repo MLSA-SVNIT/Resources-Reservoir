@@ -1,7 +1,9 @@
 
+
 <img src="https://github.com/MLSA-SVNIT/Resources-Reservoir/blob/temp/images/logo/MLSA_logo.png" alt="MLSA_LOGO" width="300" height="300"/>
 
-## Reservoir
+# Reservoir ✨
+
 
 Welcome to the club! Here's all the stuff you need to know, use, and focus on. 
 
@@ -12,6 +14,8 @@ We at MLSA NIT Surat try to spread the initiative of Microsoft of propagate the 
 
 ### What we think!
 Each and everyone is capable of achieving everything, if you provide them with the right resources.
+
+---
 
 ## Getting Started
 
