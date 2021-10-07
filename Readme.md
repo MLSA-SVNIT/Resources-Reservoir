@@ -1,6 +1,5 @@
 
-![MLSA_logo](https://github.com/MLSA-SVNIT/Resources-Reservoir/blob/temp/images/logo/MLSA_logo.png)
-<img src="https://github.com/MLSA-SVNIT/Resources-Reservoir/blob/temp/images/logo/MLSA_logo.png" alt="drawing" width="200" height="200"/>
+<img src="https://github.com/MLSA-SVNIT/Resources-Reservoir/blob/temp/images/logo/MLSA_logo.png" alt="MLSA_LOGO" width="300" height="300"/>
 
 ## Reservoir
 
