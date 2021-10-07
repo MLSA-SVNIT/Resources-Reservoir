@@ -9,6 +9,7 @@ We at MLSA NIT Surat try to spread the initiative of Microsoft of propagate the 
 
 ### What we think!
 Each and everyone is capable of achieving everything, if you provide them with the right resources.
+
 ## Getting Started
 
 Get started with anything you want to with the help of the reources we pooled in here.You are Welcome!
@@ -33,7 +34,7 @@ Get started with anything you want to with the help of the reources we pooled in
 [Automate the Boring stuff with Python](https://web.bii.a-star.edu.sg/~liangzhu/2017/11/02/linuxcommandline/automatetheboringstuffwithpython_new.pdf)
 [React Quickly](https://www.pdfdrive.com/react-quickly-painless-web-apps-with-react-jsx-redux-and-graphql-d158280067.html)
 
-#### python development
+#### Python Development
 [30 days of python](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQjDBvhNy5YbaBx9j-ZsUe6)\
 [sentdex python tutorial](https://www.youtube.com/user/sentdex)
 
@@ -307,5 +308,5 @@ Please open a PR and do follow the pattern similar to what's currently there. PR
 
 ## Acknowledgments
 
-All the team members of DSC-NIT Surat have contributed to this amazing idea.\
+All the team members of -NIT Surat have contributed to this amazing idea.\
  Cheers to all!
