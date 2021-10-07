@@ -1,4 +1,4 @@
-##                                                                          Reservoir
+# Reservoir
 
 Welcome to the club! Here's all the stuff you need to know, use, and focus on. 
 
