@@ -1,11 +1,18 @@
 ## Reservoir
 
-All great men had simple beginnings.A library of all the resources that will help programmers when stuck or beginning something new.
+Welcome to the club! Here's all the stuff you need to know, use, and focus on. 
+
+## Our Mission
+
+### MOTTO
+We at MLSA NIT Surat try to spread the initiative of Microsoft of propagate the coding community & spread the dev culture and open source, by using the Microsoft services like Azure, Office etc.
+
+### What we think!
+Each and everyone is capable of achieving everything, if you provide them with the right resources.
 
 ## Getting Started
 
 Get started with anything you want to with the help of the reources we pooled in here.You are Welcome!
-
 ### Basic tools and command line
 
 [The Missing Semester of Your CS Education - MIT](https://missing.csail.mit.edu/)
