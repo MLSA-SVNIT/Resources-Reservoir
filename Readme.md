@@ -10,6 +10,8 @@ We at MLSA NIT Surat try to spread the initiative of Microsoft of propagate the 
 ### What we think!
 Each and everyone is capable of achieving everything, if you provide them with the right resources.
 
+---
+
 ## Getting Started
 
 Get started with anything you want to with the help of the reources we pooled in here.You are Welcome!
