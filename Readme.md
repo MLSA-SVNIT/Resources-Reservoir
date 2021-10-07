@@ -1,3 +1,6 @@
+
+![MLSA_logo](https://github.com/MLSA-SVNIT/Resources-Reservoir/blob/temp/images/logo/MLSA_logo.png)
+
 ## Reservoir
 
 Welcome to the club! Here's all the stuff you need to know, use, and focus on. 
