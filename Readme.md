@@ -317,4 +317,4 @@ Do contribute if you find a well written article, a good tutorial, playlist or a
 ## Acknowledgments
 
 All the team members of MLSA-NIT Surat have contributed to this amazing idea.\
- Cheers to all!
+Cheers to all!
